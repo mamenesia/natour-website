@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for tour business in nature",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamenesia/natour-website.git"
+  },
+  "author": "mamenesia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamenesia/natour-website/issues"
+  },
+  "homepage": "https://github.com/mamenesia/natour-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

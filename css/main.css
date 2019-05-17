@@ -1167,6 +1167,12 @@ body {
   margin-bottom: 8rem;
 }
 
+@media (max-width: 56.25em) {
+  .footer__logo-box {
+    margin-bottom: 6rem;
+  }
+}
+
 .footer__logo {
   width: 15rem;
   height: auto;
